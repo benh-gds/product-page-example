@@ -26,12 +26,13 @@
 
   &__title {
     @include core-48;
-    margin-bottom: $gutter;
+    margin: 30px 0;
     font-weight: bold;
   }
 
   &__description {
     @include core-24;
+    margin-bottom: 1.25em;
   }
 
   &__feedback-link {

@@ -57,6 +57,7 @@
   }
 
   &--inverse {
+    border-bottom: 1px $white solid;
     border-bottom: 1px rgba($white, 0.25) solid;
 
     .breadcrumbs__item {
