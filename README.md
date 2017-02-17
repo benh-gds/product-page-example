@@ -44,6 +44,10 @@ Because each product team have their own tech stack, making these dependencies
 available in a more automated way that worked for everyone was not part of the
 MVP, but it's something we're looking at for the future.
 
+## Adding Google Analytics
+
+Don't forget to add Google Analytics. The easiest way to do this is to put the Google Analytics Javascript snippet just before the closing `head` tag in `layouts\layout.erb'.
+
 
 ## Frontend Dependencies
 
